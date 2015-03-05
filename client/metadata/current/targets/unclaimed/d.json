@@ -1,0 +1,19 @@
+{
+ "signatures": [
+  {
+   "keyid": "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7",
+   "method": "RSASSA-PSS",
+   "sig": "167a49137fe63b063c5192865c28930cb64e93bf8b131ae8da31c2f2509b7f21d772c3a1a19f5186de401c310e98c45dcbc8335264f7e805e844a00b4f79dcef7e09f12eca42c2779a44173fbf34b8d8acb2c600114e039d96168e9cc94343f3a89f30d5bb3e7c9e97d4a56a524a2096e889adbaddb6304f9016cc4ba67268e20ddc187d0012a6be12bd0ad8fdbb5e9a448df495fbf447622f7e3316d837c1a6001163a34986b2491dc545f6086185d64f3c33c471b18a0d59c1b9b08a778ce47cdd6c1b25ac75a9746abd8d44900896c973055876bd8603861f8376fc9ce811f21d13665bbfc3a540a1b3c1bcc2ed59b1ef0cda80d46135fa5a711d056470c9"
+  }
+ ],
+ "signed": {
+  "_type": "Targets",
+  "delegations": {
+   "keys": {},
+   "roles": []
+  },
+  "expires": "2015-06-05T01:42:31Z",
+  "targets": {},
+  "version": 1
+ }
+}

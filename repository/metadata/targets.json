@@ -1,0 +1,58 @@
+{
+ "signatures": [
+  {
+   "keyid": "07dda624198a407574124e643051ad24253a66a5f6871614722d281b215d0344",
+   "method": "RSASSA-PSS",
+   "sig": "514800d2b0e737e524fdc3413aaacc65b1e6e2c93fc21936e798c55dbbc0cc65427721debbebe5e7a70fd4e0d866c0cd190913823b63aff2fa13aa1860296cb3d28147269e842fc40a11a144fa5f0acfe71b0594b3a535c4f38d794c3aad19a30f8e341300d5f8dcfc974a6cdf5db5c540c870952c4de3e6c8ccb88d76713b2a8ffbb10b879087f29561b7f44f94afcde213c244d99c1e8fc20973d792cb1452cbc56de36f5da3e797dac4d0d71a957d4023c48acdbb9d542b58eb359b09f77a0ccb7fbaa43cc246056fab337bea96bb597e486b37c10c5ea6c5bd0882c00e18c4b1715e77cb33b26429fc65cb44104c163116324f556ed0ac09dcfe350c24e57a85a364dc4490dfecfb38a96c7e451301214e68f784e4f26691fbfb4876009c16d900dbe3ea55fac7b4b9d1ac310592e8b3855681820a56908a2289931840b79c128f44b031fb8f1457e8e0bd42683236f746443228c35d85626611b395284eef9157701641853dcb5341aabfdd1fa11bc8d127116c94f602b7080283fdcf27"
+  }
+ ],
+ "signed": {
+  "_type": "Targets",
+  "delegations": {
+   "keys": {
+    "443b61f4766c3cacea39a56fe19f52f4f3b2e2c83648e49652d64e38f228a6d4": {
+     "keytype": "rsa",
+     "keyval": {
+      "public": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuTPkEsQdp6dObJBdWpej\nQgXGQ+oYAQkXoWwuOWz8a0p2FGRWXMk0PSoRr7jp9lytsiEU5Va/VLzYePLpl/uv\n+Pc7B//g5ahfD+ZKffsjIqWfFopLdCDQDWnVkcOvRcuOH8epNjB1DZeiybuzb/TN\njUV8DgogX7qILQIDA5dMyM4MIBYLPbRFZ/KpRioceuNtjRbVc2PyG2GK06vehJgF\n6mc4kR0ke/Bap4H6o9MyfEenaDIwkHnPXsFq8knQV2oJhuUwCpheJoWuwznz8a2U\ni1TPWqED3STz9kgAoh2zQ2sMZsgHrJvVN47cH6sJ8djo4dNCq8p6bzPjHULW9kBN\neQIDAQAB\n-----END PUBLIC KEY-----"
+     }
+    },
+    "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7": {
+     "keytype": "rsa",
+     "keyval": {
+      "public": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4v93zd9Ua31y3j84TTYK\ne+q8iwF3U3s7ym0yp8OAyc/Tnmb0zmgwbsYCkKgkHtVsd4/tVPxtL5Ldng61JuTA\nMDEpVifhJvMpsNExxi7BuWNFTxmui9kQszhrQkKbib5Z9yT7QuUQ72meZAKEJqWe\nbsvUS4g1ROumiBBhLz+mLRdCHFSe6cPidm6fF5DcDUiENeQ9joUWejbJbFZ6QJc5\ncj4UxGorhFlKVNq8xe0TlO7/5maFjQOyWT8grBMFu0rInpBFX1TkxIFCOz/5VnqP\naYoWG/2Ybrzs/1wpBP1uNGEyfsMYAGQm4eJKoWGDcOF7vvqSKgUAdmK7cp/UOznY\noQIDAQAB\n-----END PUBLIC KEY-----"
+     }
+    }
+   },
+   "roles": [
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed",
+     "paths": [],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "443b61f4766c3cacea39a56fe19f52f4f3b2e2c83648e49652d64e38f228a6d4"
+     ],
+     "name": "targets/claimed",
+     "paths": [],
+     "threshold": 1
+    }
+   ]
+  },
+  "expires": "2015-06-05T01:19:03Z",
+  "targets": {
+   "/README.txt": {
+    "hashes": {
+     "sha256": "57bb905d0f2ccecbb9d81d40daa17e1e05b109c833ddc766edb0b59561088f20"
+    },
+    "length": 7
+   }
+  },
+  "version": 1
+ }
+}

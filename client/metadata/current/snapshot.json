@@ -1,0 +1,160 @@
+{
+ "signatures": [
+  {
+   "keyid": "bcbfc9f23dbb71587c43bd337ae9ea8beb5073d61104e61c62f0cd4fc90a318e",
+   "method": "RSASSA-PSS",
+   "sig": "877ea3324647e4b7d7cf8a07693f4edabf29a379d5467712cca62ea7c2602052a752bd901b85d4196fc8cee1c0c8962ae4dca5bb5fa9b9ea3a969c8dadae31d2210410844278f20330fe1574ac35b5f16b8870c204edbb509040b4a7b01e31081f82609a748d08f18852c3a0c44d2f15df35c492d3dd9c7240a4a89bcf0ba0628a328ef147574442873a01f187fd057cf6ffb0b7a02e2578b010c80e42c0cb870d91ba0eb7859d960cba40fd7d3cda58fd8229ef36aeab23ff4522337063e66a6b49c195496a195dd72ae7ea337bb793a61c6cc6ce82c99a13a590d35a507be698a69cfe4dd0fa08fb7f9db7d47bf786488fcafd5e44274e18d268c721dccafd433c815289b17cacb8f4853b7dfdddb97b32ce8b0be9ccf8dfbad83f4340329cc7615caf075099626316f741b9ad71309c6a207c3373af1eb9f4f6c04bbcbd6773ad1862a253c0c4a023320d44e6c287a902870efc8d496f5d130624fe41d2f7f272b3336b5c404721bb406e96a0f88f80d0ac7e656f25c34fe4b133b598116a"
+  }
+ ],
+ "signed": {
+  "_type": "Snapshot",
+  "expires": "2015-03-12T17:51:53Z",
+  "meta": {
+   "root.json": {
+    "hashes": {
+     "sha256": "1f100c92eeb57e13639c2b88c1061c5209504181e9f483a30d01ae98387404a8"
+    },
+    "length": 6029
+   },
+   "targets.json": {
+    "hashes": {
+     "sha256": "92e0538dd7855555f01f01fb7a9f099791d5d6fcda2bb6916b96c298f503a6a6"
+    },
+    "length": 2858
+   },
+   "targets.json.gz": {
+    "hashes": {
+     "sha256": "8523d556a253a4361834ab2fc25aeb7d35fc38591b26d6805fd829c1110666e0"
+    },
+    "length": 1680
+   },
+   "targets/claimed.json": {
+    "hashes": {
+     "sha256": "4923af90c00a93bdcb17107ab6f5db27db2b632bc218cc96f43a5928acdcb8f6"
+    },
+    "length": 1672
+   },
+   "targets/claimed/foo.json": {
+    "hashes": {
+     "sha256": "c14657130bdce08315789e0b6028ab26010b960ba2eaf91b1f886ccccb8b3376"
+    },
+    "length": 825
+   },
+   "targets/claimed/foo.json.gz": {
+    "hashes": {
+     "sha256": "cdae7ba563347baa0f5d227dbac3ed82e412d097683b0c2e18df4581d8d07f8b"
+    },
+    "length": 535
+   },
+   "targets/unclaimed.json": {
+    "hashes": {
+     "sha256": "0d968bfd11b3e60658076ed33edb3c4b8fb419bfeaccd88c5fdaad86381dee7e"
+    },
+    "length": 5242
+   },
+   "targets/unclaimed/0.json": {
+    "hashes": {
+     "sha256": "cc22dca36db2c6891af04e9d2480f1c8fef3c89202a0343dab72a10efc286ef6"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/1.json": {
+    "hashes": {
+     "sha256": "0e3dcdd1d2c0c43a6be720574b29feebcca1ec6f23ee7d07f2aa3f9c28fe4e6b"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/2.json": {
+    "hashes": {
+     "sha256": "5731b917b6202d11b47906c4956970dbecf407add5545d33942c3145c2727a99"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/3.json": {
+    "hashes": {
+     "sha256": "510562c1ec215f951caa5c6bd1d8bba3a1154983ce7d735dd929e12fa8cae2ec"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/4.json": {
+    "hashes": {
+     "sha256": "bca20e062d25243be9f5b90fd116b54bef7092bc9216fdb3c841977d2549c692"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/5.json": {
+    "hashes": {
+     "sha256": "d5febebc5ef95ec3d3368596782437e52e72b9c53d564c8c9c353d8b4c3775fb"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/6.json": {
+    "hashes": {
+     "sha256": "7813e1ba8a63b7f576db58ac20a6518b8cf26f8160d62a131eef8375cf660bbc"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/7.json": {
+    "hashes": {
+     "sha256": "216ab698228c33afc6529b368615bdcb6cf7f46459ef5d6ad1a75e08ca503f6b"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/8.json": {
+    "hashes": {
+     "sha256": "2de92bb8bab345e5d812486a166691a0013f6024123182f1ad83562c8370a196"
+    },
+    "length": 974
+   },
+   "targets/unclaimed/9.json": {
+    "hashes": {
+     "sha256": "00aedf023ddc419ecc7745880f32b3ca5be678ffc1e39e8cf638d0a1480d9ccb"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/a.json": {
+    "hashes": {
+     "sha256": "bcd1a6872ef37490bd44ea7361a0e8dc0448ca4d90ea500610da1cf4fc7660d5"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/a.json.gz": {
+    "hashes": {
+     "sha256": "474d9799fcadd6cc3b4acfb62d5daf47573ba83809fd5d9d4e84802c7742b000"
+    },
+    "length": 534
+   },
+   "targets/unclaimed/b.json": {
+    "hashes": {
+     "sha256": "444d192fb1c10e7ede7a13a4cd1d46e6f0c724f61dee7d5355cf7b2ebf68b105"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/c.json": {
+    "hashes": {
+     "sha256": "d86fd68ac4843d4d16e401208291cc0f7665e6e510f54ebcfd259e6575055635"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/d.json": {
+    "hashes": {
+     "sha256": "579690dcdc12986190b1ad29bde377efa97b238282c552b25a0a286efeb6d519"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/e.json": {
+    "hashes": {
+     "sha256": "2f75b30ef3782de02d7ce65c2b5d1f7dbec25cd002a314ebd0aa1b6b01bda714"
+    },
+    "length": 825
+   },
+   "targets/unclaimed/f.json": {
+    "hashes": {
+     "sha256": "1333a53c9d158fb9cec49d4cd738e1320c12df9b03a764fb86b1491e0082c7bc"
+    },
+    "length": 825
+   }
+  },
+  "version": 1
+ }
+}

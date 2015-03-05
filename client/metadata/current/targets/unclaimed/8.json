@@ -1,0 +1,26 @@
+{
+ "signatures": [
+  {
+   "keyid": "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7",
+   "method": "RSASSA-PSS",
+   "sig": "0103ebda087fbbc0c512ff1c835b17af81817eb522520979a02b757a7b1bde69ffc9eb30574eb5e22f4e29b9da874b3374016938b44929ef03948617ffe7b49a475c0d9e69250621ca45549b1f6c9d11d27107ad8b9fdd59c06b8e080b93dd0d65059e7f44fe86d8df4af68d93640f3e313735778e9b1dd3943a744b1a8ae4210d9bbbb784814f63d24f91c04edadc21e93af0beaf62cec4039a228bfffd62a5ecb1629dc1e19f379f8d9369fe9153caf762a9b313001ad5872e990654ac678fe2bc67a36d15e532cacc2e31778f006ce03ef92dbcef8b5aa3172861b5c2cd45c15567988775025c7ecca367dab9240afcf8ee4e9ea814347ae155facc63c7aa"
+  }
+ ],
+ "signed": {
+  "_type": "Targets",
+  "delegations": {
+   "keys": {},
+   "roles": []
+  },
+  "expires": "2015-06-05T01:42:31Z",
+  "targets": {
+   "/bar.tar.gz": {
+    "hashes": {
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "length": 0
+   }
+  },
+  "version": 1
+ }
+}

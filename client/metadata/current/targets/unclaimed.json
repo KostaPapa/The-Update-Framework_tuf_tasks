@@ -1,0 +1,203 @@
+{
+ "signatures": [
+  {
+   "keyid": "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7",
+   "method": "RSASSA-PSS",
+   "sig": "40ae2f799258ae66a05b6936bdab330295e40df546b5e539eec0984c2fa7b26b83a89f52b6228f4d8d7b684dd6ab5eb71d0768f6fbddaf69cb25bc666e7c5c671cfbc7fc6fbfed1369d6b28dd8d00872f688bb1632c1c196e06a1a1a3938be1c4e9b47f3b417e973b04b7fa00861b4148ac588bf3f18040975f47ffa4e4d4b937cb87c9ec9ed90c0ffc30d73fcfa55afbdd4c60135a3d8c3463b0303b56e3d947fc899d9abfa7ffbbd5e1e9af07563f7eb50b54a3a0720a6e66e8cc0368f63bd343c3ae187ed0576bf54177ca4412ad3a67b75e8833ed0650742b3c45cf1b9684b0d252ac2581d158d83c477adb5b1ff4911f742fdf06bdf7271cf4be8abe7ff"
+  }
+ ],
+ "signed": {
+  "_type": "Targets",
+  "delegations": {
+   "keys": {
+    "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7": {
+     "keytype": "rsa",
+     "keyval": {
+      "public": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4v93zd9Ua31y3j84TTYK\ne+q8iwF3U3s7ym0yp8OAyc/Tnmb0zmgwbsYCkKgkHtVsd4/tVPxtL5Ldng61JuTA\nMDEpVifhJvMpsNExxi7BuWNFTxmui9kQszhrQkKbib5Z9yT7QuUQ72meZAKEJqWe\nbsvUS4g1ROumiBBhLz+mLRdCHFSe6cPidm6fF5DcDUiENeQ9joUWejbJbFZ6QJc5\ncj4UxGorhFlKVNq8xe0TlO7/5maFjQOyWT8grBMFu0rInpBFX1TkxIFCOz/5VnqP\naYoWG/2Ybrzs/1wpBP1uNGEyfsMYAGQm4eJKoWGDcOF7vvqSKgUAdmK7cp/UOznY\noQIDAQAB\n-----END PUBLIC KEY-----"
+     }
+    }
+   },
+   "roles": [
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/0",
+     "path_hash_prefixes": [
+      "0"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/1",
+     "path_hash_prefixes": [
+      "1"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/2",
+     "path_hash_prefixes": [
+      "2"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/3",
+     "path_hash_prefixes": [
+      "3"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/4",
+     "path_hash_prefixes": [
+      "4"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/5",
+     "path_hash_prefixes": [
+      "5"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/6",
+     "path_hash_prefixes": [
+      "6"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/7",
+     "path_hash_prefixes": [
+      "7"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/8",
+     "path_hash_prefixes": [
+      "8"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/9",
+     "path_hash_prefixes": [
+      "9"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/b",
+     "path_hash_prefixes": [
+      "b"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/c",
+     "path_hash_prefixes": [
+      "c"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/d",
+     "path_hash_prefixes": [
+      "d"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/e",
+     "path_hash_prefixes": [
+      "e"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/f",
+     "path_hash_prefixes": [
+      "f"
+     ],
+     "threshold": 1
+    },
+    {
+     "backtrack": true,
+     "keyids": [
+      "b4dab843635b9758c84e619a8635def4feee7e8a3006f62e4adc420abf4232e7"
+     ],
+     "name": "targets/unclaimed/a",
+     "paths": [
+      "/bar.tar.gz/"
+     ],
+     "threshold": 1
+    }
+   ]
+  },
+  "expires": "2015-06-05T01:35:25Z",
+  "targets": {},
+  "version": 3
+ }
+}

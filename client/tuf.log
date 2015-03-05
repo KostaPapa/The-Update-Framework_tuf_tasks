@@ -1,0 +1,99 @@
+[2015-03-05 18:52:15,488 UTC] [tuf.download] [INFO] [_download_file:193@download.py]
+Downloading: http://localhost:8001/metadata/timestamp.json
+
+[2015-03-05 18:52:18,516 UTC] [tuf.download] [INFO] [_check_downloaded_length:595@download.py]
+Downloaded 1335 bytes out of an upper limit of 16384 bytes.
+
+[2015-03-05 18:52:18,516 UTC] [tuf.client.updater] [INFO] [_get_file:1202@updater.py]
+Not decompressing http://localhost:8001/metadata/timestamp.json
+
+[2015-03-05 18:52:18,521 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'snapshot.json' up-to-date.
+
+[2015-03-05 18:52:18,521 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'root.json' up-to-date.
+
+[2015-03-05 18:52:18,522 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets.json' up-to-date.
+
+[2015-03-05 18:52:18,523 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/claimed.json' up-to-date.
+
+[2015-03-05 18:52:18,524 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/claimed/foo.json' up-to-date.
+
+[2015-03-05 18:52:18,527 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed.json' up-to-date.
+
+[2015-03-05 18:52:18,527 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/0.json' up-to-date.
+
+[2015-03-05 18:52:18,528 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/1.json' up-to-date.
+
+[2015-03-05 18:52:18,528 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/2.json' up-to-date.
+
+[2015-03-05 18:52:18,528 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/3.json' up-to-date.
+
+[2015-03-05 18:52:18,529 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/4.json' up-to-date.
+
+[2015-03-05 18:52:18,529 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/5.json' up-to-date.
+
+[2015-03-05 18:52:18,530 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/6.json' up-to-date.
+
+[2015-03-05 18:52:18,530 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/7.json' up-to-date.
+
+[2015-03-05 18:52:18,531 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/8.json' up-to-date.
+
+[2015-03-05 18:52:18,531 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/9.json' up-to-date.
+
+[2015-03-05 18:52:18,532 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/a.json' up-to-date.
+
+[2015-03-05 18:52:18,532 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/b.json' up-to-date.
+
+[2015-03-05 18:52:18,533 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/c.json' up-to-date.
+
+[2015-03-05 18:52:18,533 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/d.json' up-to-date.
+
+[2015-03-05 18:52:18,533 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/e.json' up-to-date.
+
+[2015-03-05 18:52:18,534 UTC] [tuf.client.updater] [INFO] [_update_metadata_if_changed:1520@updater.py]
+u'targets/unclaimed/f.json' up-to-date.
+
+[2015-03-05 18:52:18,534 UTC] [tuf.download] [INFO] [_download_file:193@download.py]
+Downloading: http://localhost:8001/targets/README.txt
+
+[2015-03-05 18:52:18,536 UTC] [tuf.download] [INFO] [_check_downloaded_length:573@download.py]
+Downloaded 7 bytes out of the expected 7 bytes.
+
+[2015-03-05 18:52:18,536 UTC] [tuf.client.updater] [INFO] [_get_file:1202@updater.py]
+Not decompressing http://localhost:8001/targets/README.txt
+
+[2015-03-05 18:52:18,536 UTC] [tuf.client.updater] [INFO] [_check_hashes:709@updater.py]
+The file's sha256 hash is correct: 57bb905d0f2ccecbb9d81d40daa17e1e05b109c833ddc766edb0b59561088f20
+
+[2015-03-05 18:52:18,537 UTC] [tuf.download] [INFO] [_download_file:193@download.py]
+Downloading: http://localhost:8001/targets/bar.tar.gz
+
+[2015-03-05 18:52:18,538 UTC] [tuf.download] [INFO] [_check_downloaded_length:573@download.py]
+Downloaded 0 bytes out of the expected 0 bytes.
+
+[2015-03-05 18:52:18,538 UTC] [tuf.client.updater] [INFO] [_get_file:1202@updater.py]
+Not decompressing http://localhost:8001/targets/bar.tar.gz
+
+[2015-03-05 18:52:18,538 UTC] [tuf.client.updater] [INFO] [_check_hashes:709@updater.py]
+The file's sha256 hash is correct: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+

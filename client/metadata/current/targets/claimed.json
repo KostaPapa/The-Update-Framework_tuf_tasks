@@ -1,0 +1,38 @@
+{
+ "signatures": [
+  {
+   "keyid": "443b61f4766c3cacea39a56fe19f52f4f3b2e2c83648e49652d64e38f228a6d4",
+   "method": "RSASSA-PSS",
+   "sig": "3c203997c537fd711885a81254abb4efd6797302a26f618aed15d85975674894e0652a579c19ca8f7d39e6d884372a611eb510ff619ddfb9704e154c3c0947c73749aafc742d5ff348e4fc7f18aad73159d99a63482e59d6f878e6be3dc45453d6e94d87eae5e447fa6fb03977e1536cf50ebafce096c3c7db7678bd0c13a584dcaeef80acb64055d76cd484b8bb9e145a08e8a0ea5a9f6246da9da2e35aa99074ccf0c693b1e128ac6cfb9e6d762ffdffb02c59d14caaee464b86314aa74f4404ff444f2f5f63baa43738f123864edb9929cb6a479f57d7822ba5b829d15556ce6006d0063ae2a640b6ac72ebd9c3c184e188dae6e7555b3a54d45dcc7e7a85"
+  }
+ ],
+ "signed": {
+  "_type": "Targets",
+  "delegations": {
+   "keys": {
+    "443b61f4766c3cacea39a56fe19f52f4f3b2e2c83648e49652d64e38f228a6d4": {
+     "keytype": "rsa",
+     "keyval": {
+      "public": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuTPkEsQdp6dObJBdWpej\nQgXGQ+oYAQkXoWwuOWz8a0p2FGRWXMk0PSoRr7jp9lytsiEU5Va/VLzYePLpl/uv\n+Pc7B//g5ahfD+ZKffsjIqWfFopLdCDQDWnVkcOvRcuOH8epNjB1DZeiybuzb/TN\njUV8DgogX7qILQIDA5dMyM4MIBYLPbRFZ/KpRioceuNtjRbVc2PyG2GK06vehJgF\n6mc4kR0ke/Bap4H6o9MyfEenaDIwkHnPXsFq8knQV2oJhuUwCpheJoWuwznz8a2U\ni1TPWqED3STz9kgAoh2zQ2sMZsgHrJvVN47cH6sJ8djo4dNCq8p6bzPjHULW9kBN\neQIDAQAB\n-----END PUBLIC KEY-----"
+     }
+    }
+   },
+   "roles": [
+    {
+     "backtrack": true,
+     "keyids": [
+      "443b61f4766c3cacea39a56fe19f52f4f3b2e2c83648e49652d64e38f228a6d4"
+     ],
+     "name": "targets/claimed/foo",
+     "paths": [
+      "/foo.tar.gz/"
+     ],
+     "threshold": 1
+    }
+   ]
+  },
+  "expires": "2015-06-05T02:09:23Z",
+  "targets": {},
+  "version": 3
+ }
+}

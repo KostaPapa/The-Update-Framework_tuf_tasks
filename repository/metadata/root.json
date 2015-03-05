@@ -1,0 +1,79 @@
+{
+ "signatures": [
+  {
+   "keyid": "4ecc76b579a8be0f80a576aa317975512181dd97645a5725bec63cc229fdcfee",
+   "method": "RSASSA-PSS",
+   "sig": "20896634623b7aacbf7cba61e0688ad5e3b073a209c748b19bff3f4287824f5abbb23239bd383360af929413352cbd100f6ffeac15dab7624c860a06202a6555ea4bcc343e23a3dabc83780369eb7985ef8730bd07cd1a091001afff6f395f5a29bce682d1b196fa9d84cb58bb52566a9591d76ceeceed18b267001c7e04b834582968d97c3b40b1f1bee1077a35b068f075aa3e91a800d11cfbc6b9fa5f0162272e568cc9b990aa20d589a936495b13120f33bd80f8527ab91788310aabff13c08a398146d596e539e43e2ac80993995b64da20fa2d927e2cc9193f541a3af370117ad9010008bcfa953c534278de7a1890f55ab0100ee16336e7b8155467bd"
+  },
+  {
+   "keyid": "e5a0cfdddda825f605e99aeb90cf70d3f0e7b5a9af59a2771de8d8099a63cfec",
+   "method": "RSASSA-PSS",
+   "sig": "ae90a9008e0455645be651a6767c0ea2f2397c391589a91beadc7f9310d1877a7560e9f813d7ac5b9a966fc16d984cefa2b22d07ac0a1811d8d1e9357441d1b3ec43695b9e5ccdcdfb5faff74070d16b8eb195c77977f83e6c9959a2955d4e9cda30bcb014b0eba59fb80d7fc3058a421e531f9f2ec5724bbf658a0eb063883d1c173d1881919c35251e6bbd5417e305e83502e51ca122394cdf9a9eea79dc58469e2227afca73b10efece246e2563360a9a920c52d68a47f8228f6fe7b99ba6ec9f98b649cf8bc31ad903ea4224d9d1f1f79a3c02163c9786700e919f611fac1011af02008be126c3d6a12e23be2b1febae955dc2764b7d2ab5e58b0925190d51e613ae39c190e0cafc2f826b639329c97f4cb57bd717a168851ae140340493c5c6fb1ba177140a2ef4b442167731e791f1065748af313c21f0aacba5491ad9e4d1a528b5b6804c23e7842afb05324d9a4a78d0aaa4ef1506ac8ba5ab40fe1a976d0347109ff6201f2dd29e1f61e457681d53acbf88bab26d4980a6d936f60d"
+  }
+ ],
+ "signed": {
+  "_type": "Root",
+  "consistent_snapshot": false,
+  "expires": "2016-03-04T23:40:13Z",
+  "keys": {
+   "07dda624198a407574124e643051ad24253a66a5f6871614722d281b215d0344": {
+    "keytype": "rsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAo5gK6ONey0UQ5qtzGGkF\nHyjoOhlRZJ0CUgtT5g5iQFslWVghLVwm48I+eoPKA0jAbeJ0H1I/Apzwd7NSwEqe\nSeWXHN855ZhHE4wydnJKpiTRwTQGAnfMXlumm+1WddMOEymRSIOKROygXkYHe0ei\neH2KYNtCTpmkXNrTYfq0PCn5qM+qkRe9H1Ero3/hdN/58ZpyVGExhylbyJCdHBsL\nBM2LH2stcdMGzQYKxHYxfKct9cmCIMUzD1FfVjgthu4zRzRvCMnz9oxxk2/y9TMF\nb+7G1uYolVeePsUtWMMYe/leqQcVRIaWdd+x/VJeKYuDCpj1aGyuCLkPTBxr/jZt\nNCMtEJmYGKr7cJBt+YTxJUmsrVeNYXK7oO5vYSJEIlU9d69BEaIdS6xFCPPr7yg6\nQ4omP0y+VXR7mt46Bs/2af6AON9sFID8hrixsG9iYUBFMIltcJ9O+sxfNTIzY0A1\ngkRKwFYMMahD6WDqlPblJYMvU6/5p7tWv4idAqT61UcVAgMBAAE=\n-----END PUBLIC KEY-----"
+    }
+   },
+   "4ecc76b579a8be0f80a576aa317975512181dd97645a5725bec63cc229fdcfee": {
+    "keytype": "rsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Ris/dmHbaGnBnpOuoUl\nOKeGIDNEEMCAsW9w0gcZS90aN7Rjy71kqcYvziP2XueCtkeahgEA5yO5UQhxmQps\nrYZfaLNjJzztcI8fqKJNkn3KkE5XtaPP/Wvm5gGMxcDlDUnIpp2f6vEssjkae536\nZkZyVRageY1I4BkjRwnoJsKJNmPmADHxkPhdREh/pO74mu0gHPLkTmiaJvOTiaGf\nbEE8nqmqQ5TfiRP9joMQHo8wuoQzLCOodi6iqGpEhoGfW12/bQqKDFaI+OzH9RuL\n6l8XGlp4YgiSyGbi3W2cl00VMINMLODhvaOSKUYhdVhdJeOZTrtjttA4Us2FCJR1\n/QIDAQAB\n-----END PUBLIC KEY-----"
+    }
+   },
+   "8eaa78657eded065e4f7f2d58af56deeb79fe9e0cefcf307c64292562962e7b8": {
+    "keytype": "rsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAukr1pxCW6xJ+KvVl2Uqz\nfHDLmRK2i43Cq6y9K7n/4RuVEN21v+QWssYP2m/iWxgaD+GXiHyyHZQyuOUX7Bih\nBeej/+qjMIAryGSiI0EVABurpfClVpGNt+lWbCrqmjkGhefyTBaDL8htjO2dP/V2\nWaioCoeFOnT9yOcjAY6wuS3X6s85eLnli0l+00nqV63OLRjaNw7TxT1XnJaSurOG\nSKfsRn9A8j5iFLhs/5ptGPTAwrTM56MiH2VkRDHoe7qdfgyBFuu2bXwtyQ2l+6Lz\n9hvrENOkLjcHiCTG7t3fzkAuNiOVAld0bBBBbfifiM+gevMxoHG43xE3mVgvAA0R\n9MXE2j15+5yUpYJz6WKu0StS+Dlf5c6rs+Q8PHAXSLrreQh2dabKlnyo/Soa0q58\nAdAIc1i/x1TZNUGXbuoX0l8Sf1RvtscAYg4dXE3ax6adOu8SCOw5+2WSbQRy5HWQ\nhG3fGn2a9Z5rzmdkqDhDLED8BE5c1SFI352kSEJb9RgzAgMBAAE=\n-----END PUBLIC KEY-----"
+    }
+   },
+   "bcbfc9f23dbb71587c43bd337ae9ea8beb5073d61104e61c62f0cd4fc90a318e": {
+    "keytype": "rsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA8c82QKqgAhi+B5vR8yKh\n8SdvLkO2P7g5zT82rRUnmX9u/474x8y8jPuxcAZQDgb35uSGe4M+fYz2kcOdEni2\nIjvRdXppzLbYmTcRiVbhLegbHL9TT0/MxpVTribB3K4pUbTb9nsrt6/kiR/aUiVM\ndeYgNL7g0Yj0AUYwyfsPa5MCfDGRtxMF9SEuEAO/iA23fTzLBoafAJuKoWlCABER\nggSvj5CMrheWisxIIYOHRGJVORYOsv1y3pSAKeOAf3LyVaTB0p+IZEo3s+TQ9iRe\nvTv9EHEMWYrAnK7zlKNfx2VJU7c16MN5GyeGslu4sgpB6lRR1xwMTDt7d4za6ne9\nky9xQY2KKTiOrs338xl1NZMNxNKmAl6kWB6snG7QL1uc3D/fRGw7Xi0MXaJ8edIn\n0petTPbUvwLbFbkCXB7lmYawxNqps53BHI8vTILgQkz8mo5aUpKw764QlbttiX6W\n1H2SdC+qw9/QAyD155RoE3q1jWurETcXjw0I9GJLwEHlAgMBAAE=\n-----END PUBLIC KEY-----"
+    }
+   },
+   "e5a0cfdddda825f605e99aeb90cf70d3f0e7b5a9af59a2771de8d8099a63cfec": {
+    "keytype": "rsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAvXtAVMQGeJHOEjuGFBBZ\nHpqxrgWmpcwZpqSGI2oHHwfLLPja/yFZl+VOnXaYJPkbEaBGLtxnjftJJn+V885m\nzz28Nuo9lqtPh5M1JxXWZpa/xEahvON4aZXxgPlMxl95R7XC5dJ97yiYSykkd/4H\nUlBP/Lo7IY6UcWSUFkW0OcJ3Zjvvc2UvmTuJxICCmTImDSIRlm+GXHFIrnaFsNZc\n8AJfoHZvCt+iqN6gdDNIjxm00/0jo9j4cupQZe3hKkC0ZETFwALXWkQ2L82c1lhW\nZEhGtltOLrW+yEoKTouu3OzmdzolK9mpxV/MveE7f7r2X8mRpTYWPtTa86h0zPq+\nN+YOx6kmxM/Uf3yjrQixjpctLCSQCP+PvBsHTzY7z30gRUEV/qjxZhwvTfJun0wW\nRkjFlCHt3sYANxKrTD916+2+RnZr43a77Hw+Dyhn0rK8yiO/0trfXTyVjiSLfZN0\nkM0r08LlWT5wnbZvuP8uSrTBwTidJh8X/oDSjCuFKEhnAgMBAAE=\n-----END PUBLIC KEY-----"
+    }
+   }
+  },
+  "roles": {
+   "root": {
+    "keyids": [
+     "4ecc76b579a8be0f80a576aa317975512181dd97645a5725bec63cc229fdcfee",
+     "e5a0cfdddda825f605e99aeb90cf70d3f0e7b5a9af59a2771de8d8099a63cfec"
+    ],
+    "threshold": 2
+   },
+   "snapshot": {
+    "keyids": [
+     "bcbfc9f23dbb71587c43bd337ae9ea8beb5073d61104e61c62f0cd4fc90a318e"
+    ],
+    "threshold": 1
+   },
+   "targets": {
+    "keyids": [
+     "07dda624198a407574124e643051ad24253a66a5f6871614722d281b215d0344"
+    ],
+    "threshold": 1
+   },
+   "timestamp": {
+    "keyids": [
+     "8eaa78657eded065e4f7f2d58af56deeb79fe9e0cefcf307c64292562962e7b8"
+    ],
+    "threshold": 1
+   }
+  },
+  "version": 1
+ }
+}
